@@ -21,7 +21,7 @@ Other Skills:
 --> Good Communication
 --> Oral Skills
 
-- 🌱 I’m currently pursuing my Diploma in Computer Engineering.
+- 🌱 I have completed my Diploma in Computer Engineering.
 - 📫 How to reach me :
 - My Portfolio: https://vinayakportfolio.000webhostapp.com/personalportfolio-main/
 
