@@ -22,7 +22,7 @@ Other Skills:
 --> Oral Skills
 
 - 🌱 I have completed my Diploma in Computer Engineering.
-- 📫 How to reach me :
+- 📫 How to reach me : shetevinay8314@gmail.com
 - My Portfolio: https://vinayakportfolio.000webhostapp.com/personalportfolio-main/
 
 <!---
